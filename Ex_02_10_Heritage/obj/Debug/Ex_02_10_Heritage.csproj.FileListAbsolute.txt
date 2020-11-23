@@ -1,0 +1,7 @@
+C:\Users\olivd17\source\repos\ByteBank_Course03\Ex_02_10_Heritage\bin\Debug\Ex_02_10_Heritage.exe.config
+C:\Users\olivd17\source\repos\ByteBank_Course03\Ex_02_10_Heritage\bin\Debug\Ex_02_10_Heritage.exe
+C:\Users\olivd17\source\repos\ByteBank_Course03\Ex_02_10_Heritage\bin\Debug\Ex_02_10_Heritage.pdb
+C:\Users\olivd17\source\repos\ByteBank_Course03\Ex_02_10_Heritage\obj\Debug\Ex_02_10_Heritage.csprojAssemblyReference.cache
+C:\Users\olivd17\source\repos\ByteBank_Course03\Ex_02_10_Heritage\obj\Debug\Ex_02_10_Heritage.csproj.CoreCompileInputs.cache
+C:\Users\olivd17\source\repos\ByteBank_Course03\Ex_02_10_Heritage\obj\Debug\Ex_02_10_Heritage.exe
+C:\Users\olivd17\source\repos\ByteBank_Course03\Ex_02_10_Heritage\obj\Debug\Ex_02_10_Heritage.pdb
