@@ -44,8 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BonusManager.cs" />
+    <Compile Include="CommercialPartner.cs" />
     <Compile Include="Employees\AccountManager.cs" />
     <Compile Include="Employees\Assistant.cs" />
+    <Compile Include="Employees\AuthenticableEmployee.cs" />
     <Compile Include="Employees\Designer.cs" />
     <Compile Include="Employees\Developer.cs" />
     <Compile Include="Employees\Director.cs" />

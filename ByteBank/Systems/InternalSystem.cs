@@ -9,9 +9,9 @@ namespace ByteBank.Systems
 {
     public class InternalSystem
     {
-        public bool LogInto(Authenticable authenticableEmployee, string passworkAttempt)
+        public bool LogInto(IAuthenticable authenticablePerson, string passworkAttempt)
         {
-            if (authenticableEmployee.Authenticate(passworkAttempt))
+            if (authenticablePerson.Authenticate(passworkAttempt))
             {
                 Console.WriteLine("Correct password. Welcome to the system!");
                 return true;

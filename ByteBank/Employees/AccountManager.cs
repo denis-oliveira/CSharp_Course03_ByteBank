@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Employees
 {
-    public class AccountManager : Authenticable
+    public class AccountManager : AuthenticableEmployee
     {
         public AccountManager(string cpf) : base(4000, cpf) {}
 

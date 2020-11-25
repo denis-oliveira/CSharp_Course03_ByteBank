@@ -28,8 +28,12 @@ namespace ByteBank
             caroline.Name = "Caroline";
             caroline.Password = "abc";
 
+            CommercialPartner commercialPartner = new CommercialPartner();
+            commercialPartner.Password = "123456";
+
             internalSystem.LogInto(robert, "123");
             internalSystem.LogInto(caroline, "abc");
+            internalSystem.LogInto(commercialPartner, "123456");
         }
 
         public static void CalculateBonus()
