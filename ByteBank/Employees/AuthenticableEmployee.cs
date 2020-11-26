@@ -10,6 +10,7 @@ namespace ByteBank.Employees
     public abstract class AuthenticableEmployee : Employee, IAuthenticable
     {
         public string Password { get; set; }
+
         public AuthenticableEmployee(double initialSalary, string cpf) 
             : base (initialSalary, cpf) {}
 
